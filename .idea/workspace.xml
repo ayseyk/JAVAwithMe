@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3226fe4b-cc48-4412-bcf7-5e20d3b15227" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/arrayListWithClass/src/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HelloJava/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HelloJava/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1wnay6T3J57R1JjOzwR8a9R5XGh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3226fe4b-cc48-4412-bcf7-5e20d3b15227" name="Changes" comment="" />
+      <created>1629097058985</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629097058985</updated>
+    </task>
+    <servers />
+  </component>
+</project>
